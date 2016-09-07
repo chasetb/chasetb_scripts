@@ -1,0 +1,1 @@
+Pulls the latest Backblaze installer from their website, mounts the DMG, and installs the app silently with credentials passed from the JSS. If you're not using JAMF, replace the top two variables for username and password with the correct values.
